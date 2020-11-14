@@ -154,8 +154,8 @@ padding: 50px 0 20px;
    background-image: -ms-linear-gradient(top, #30ECCB, #2BC4AD);
    background-image: -o-linear-gradient(top, #30ECCB, #2BC4AD);
    background-image: -webkit-gradient(to bottom, #30ECCB, #2BC4AD);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
    text-decoration: none;
 }
